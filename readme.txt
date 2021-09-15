@@ -1,3 +1,3 @@
-header - #F7F0F5
-Header text - #FF8F5C
-body - #F7F0F5
+orange - #FF8F5C
+#ffc8ae
+light orange - #F7F0F5

@@ -1,0 +1,23 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Qwigley&display=swap'); */
+body{
+    font-family: Roboto;
+}
+
+.my-blog{
+    font-family: 'Qwigley', cursive;
+    color: #FF8F5C;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+    -webkit-text-stroke: .5px black;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.nav-link-name:hover{
+    /* background-color: #FF8F5C; */
+    color: white;
+    border-bottom: 3px solid #FF8F5C;
+}
