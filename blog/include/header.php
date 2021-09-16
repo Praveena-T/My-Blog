@@ -41,7 +41,7 @@
 
 <body>
     <div class="container-responsive">
-        <nav class="navbar navbar-expand-lg navbar-white bg-white">
+        <nav class="navbar navbar-expand-lg navbar-white bg-light">
             <div class="container-fluid">
                 <p class="navbar-brand my-blog">My Blog</p>
                 <button class="navbar-toggler" type="button" data-mdb-toggle="collapse" data-mdb-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -50,7 +50,7 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
-                            <a class="nav-link text-dark nav-link-name" aria-current="page" href="view_blog.php">Blogs</a>
+                            <a class="nav-link text-dark nav-link-name" aria-current="page" href="../blog_content/home.php">Blogs</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark nav-link-name" href="about_me.php">About Me</a>
