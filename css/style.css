@@ -1,4 +1,5 @@
 /* @import url('https://fonts.googleapis.com/css2?family=Qwigley&display=swap'); */
+/* rasika akka's bday-oct 4th */
 body{
     font-family: Roboto;
 }
@@ -12,12 +13,51 @@ body{
     line-height: 60px;
     text-align: center;
     -webkit-text-stroke: .5px black;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 .nav-link-name:hover{
     /* background-color: #FF8F5C; */
-    color: white;
+    color: whitesmoke;
     border-bottom: 3px solid #FF8F5C;
 }
+
+.icon-link:hover {
+    color: #FF8F5C;
+    box-shadow: 0 0 10px #FF8F5C;
+    border: 3px solid #FF8F5C;
+} 
+
+.button-design{
+    color: whitesmoke;
+    background-color: #FF8F5C;
+} 
+
+.button-design:hover{
+    background-color: whitesmoke;
+    color: #FF8F5C;
+}
+
+.field-input {
+    border: 1px solid #FF8F5C;
+    border-radius: 2px;
+    /* font-size: 1rem; */
+    /* margin: 0.25rem; */
+    /* min-width: 125px; */
+    /* padding: 0.5rem; */
+    /* transition: background-color 0.5s ease-out; */
+    border-radius: 30px;
+  }
+
+.field-input:hover {
+    background-color: #fff8f5;
+}
+
+
+
+/* ul li a:hover {
+    color: #ffee10;
+    box-shadow: 0 0 5px #ffee10;
+    text-shadow: 0 0 5px #ffee10;
+  } */
+
