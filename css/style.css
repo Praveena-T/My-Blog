@@ -36,8 +36,10 @@ body{
 .button-design:hover{
     background-color: whitesmoke;
     color: #FF8F5C;
+    box-shadow: 0 0 10px #ffc8ae;
+    border: 3px solid #ffc8ae;
 }
-
+/* #ffc8ae */
 .field-input {
     border: 1px solid #FF8F5C;
     border-radius: 2px;
